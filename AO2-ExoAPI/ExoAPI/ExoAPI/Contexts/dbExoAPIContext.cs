@@ -16,11 +16,11 @@ namespace ExoAPI.Contexts
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if(!optionsBuilder.IsConfigured)
-            {               //; Password = vip12345
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-T0IARII\\SQLEXPRESS; initial catalog = dbExoAPI; User Id = sa");
+            {               
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-T0IARII\\SQLEXPRESS; initial catalog = dbExoAPI; User Id = sa; Password = 1459");
             }
         }
 
-        public DbSet<Projeto> Projetos { get; set; }
+        public DbSet<Projeto> Projeto { get; set; }
     }
 } 

@@ -9,6 +9,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped<ChapterContext, ChapterContext>();
 builder.Services.AddScoped<LivroRepository, LivroRepository>();
+builder.Services.AddTransient<LivroRepository, LivroRepository>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

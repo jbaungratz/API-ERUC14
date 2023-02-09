@@ -14,7 +14,7 @@ namespace ExoAPI.Repositories
 
         public List<Projeto> Listar()
         {
-            return _context.Projetos.ToList();
+            return _context.Projeto.ToList();
         }
     }
 }

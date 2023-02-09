@@ -62,3 +62,4 @@ C:\Users\jose1\Documents\UC14 Senai\API-ERUC14\Chapter\Chapter\Chapter\obj\Debug
 C:\Users\jose1\Documents\UC14 Senai\API-ERUC14\Chapter\Chapter\Chapter\obj\Debug\net6.0\Chapter.pdb
 C:\Users\jose1\Documents\UC14 Senai\API-ERUC14\Chapter\Chapter\Chapter\obj\Debug\net6.0\Chapter.genruntimeconfig.cache
 C:\Users\jose1\Documents\UC14 Senai\API-ERUC14\Chapter\Chapter\Chapter\obj\Debug\net6.0\ref\Chapter.dll
+C:\Users\jose1\Documents\UC14 Senai\API-ERUC14\Chapter\Chapter\Chapter\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
