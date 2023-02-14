@@ -21,6 +21,6 @@ namespace ExoAPI.Contexts
             }
         }
 
-        public DbSet<Projeto> Projeto { get; set; }
+        public DbSet<Projetos> Projeto { get; set; }
     }
 } 

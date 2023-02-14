@@ -1,6 +1,6 @@
 ﻿namespace ExoAPI.Models
 {
-    public class Projeto
+    public class Projetos
     {
         public int Id { get; set; }  
         public string? Titulo { get; set; }
